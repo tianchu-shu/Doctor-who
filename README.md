@@ -1,4 +1,6 @@
 # Doctor-who
+Alyssa Harker, Amir Kazi & Tianchu Shu
+
 Project folder for CAPP30122 course for predicting ED wait times
 
 Instructions for running project:
