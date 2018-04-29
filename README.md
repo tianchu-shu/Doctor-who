@@ -3,7 +3,7 @@ Alyssa Harker, Amir Kazi & Tianchu Shu
 
 Project folder for CAPP30122 course for predicting ED wait times
 
-Instructions for running project:
+# Instructions for running project:
 
 Install libraries if needed: django, googlemaps
 
@@ -17,7 +17,7 @@ To operate django web application:
 7. The alerts page lists the alerts for the zipcode. The alerts will first check WeatherUnderground API for National Weather Service alerts. If there are no alerts for your zipcode we will then check for other severe weather conditions through OpenWeatherMap API. This checks for severe or extreme weather descriptions as well as extreme wind chills and heat indicies. The alert from OpenWeatherMap will consist of the weather description, a wind chill warning with the calculated value, and/or a heat index warning with the calculated value. 
 
 
-Code Structure:
+# Code Structure:
 - raw_data: 
     - This folder contains python code and csv files for data that were used to either create sqlite databases within django or our predicted wait time regression.
     - nhamcs data: Alyssa
