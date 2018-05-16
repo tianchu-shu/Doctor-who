@@ -1,6 +1,7 @@
 # Doctor-who
 Alyssa Harker, Amir Kazi & Tianchu Shu
 
+Contributors: [Alyssa Harker](https://github.com/aharker619), [Amir Kazi](https://github.com/amirkazi) and [Tianchu Shu](https://github.com/tianchu-shu)
 Project folder for CAPP30122 course for predicting ED wait times
 
 
