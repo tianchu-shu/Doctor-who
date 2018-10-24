@@ -5,7 +5,7 @@ import waittimes.regression as regression
 import pickle
 
 MEDIAN_AVGWAIT = 42
-ARG = ["less than 10 minutes", "11-24 minutes", "25-53 minutes", "beyond 54 minutes"]
+ARG = ["less than 10 minutes", "11-24 minutes", "25-53 minutes", "More than 54 minutes"]
 
 def find_model():
     '''
